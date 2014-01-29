@@ -1,5 +1,5 @@
 <?php 
 	phpinfo(); 
-	echo '<p>My name is Sasitorn</p>';
+	echo '<p>My name is Sasitorn K</p>';
 	
 ?>
